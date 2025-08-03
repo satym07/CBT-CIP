@@ -1,4 +1,4 @@
-# 🌸 Iris Dataset – EDA & Classification
+# 🌸 Iris Flower – EDA & Classification
 
 This project uses the Iris dataset to:
 - Visualize feature relationships with a pair plot
